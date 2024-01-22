@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning to use Python<br>🎯 Objectives: become a sea professional<br>🎲 Curiosity: I studied the stomach ache of the clam Chamelea gallinaaaa in my thesis, which is why there is a rubber chicken....</p>
+<p align="left">📚 I'm currently learning to use Python<br>🎯 Objectives: become a sea professional<br>🎲 Curiosity: I studied the stomach ache of the clam Chamelea gallina in my thesis, which is why there is a rubber chicken....</p>
 
 ###
 
