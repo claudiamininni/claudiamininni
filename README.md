@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">👋</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning to use Python<br>🎯 Objectives: become a sea professional<br>🎲 Curiosity: ...</p>
+<p align="left">📚 I'm currently learning to use Python<br>🎯 Objectives: become a sea professional<br>🎲 Curiosity: I studied the stomach ache of the clam Chamelea gallinaaaa in my thesis, which is why there is a rubber chicken....</p>
 
 ###
 
