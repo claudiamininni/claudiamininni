@@ -1,4 +1,5 @@
 ### Hi there 👋
+## Ciao! I am a marine biologist and a beginner in the GitHub world. Currently, I am navigating the seas of coding and big data like a true castaway, but I see great adventures on the horizon. 🌊✨
 
 <!--
 **claudiamininni/claudiamininni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
