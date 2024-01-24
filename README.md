@@ -5,7 +5,6 @@
 <p align="left">I am a marine biologist and a beginner in the GitHub world. 
 Currently, I am navigating the seas of coding and big data like a true castaway, but I see great adventures on the horizon. 🌊✨</p>
 
-<iframe src="https://giphy.com/embed/na5eo4HbIVO7K" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lana-parrilla-na5eo4HbIVO7K">via GIPHY</a></p>
 ###
 
 <h2 align="left">About me</h2>
